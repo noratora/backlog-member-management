@@ -8,6 +8,6 @@ GAS(Google Apps Script)を利用し、GoogleスプレッドシートからBacklo
 https://docs.google.com/spreadsheets/d/123rSzRbTbIWyRM3zEffK1IMqvTjjf_1bVQcOoa-B_XA/copy
 
 ## 注意事項
-**backlog.com のスペースではこのAPIを利用できません。**
+**backlog.com のスペースではこのコードを利用できません。backlog.jpのスペースでは使用可能です。**
 
 残念ながら新しく作ったBacklogスペースでは使用できません。
